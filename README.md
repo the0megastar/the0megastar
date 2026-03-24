@@ -8,20 +8,20 @@ I lean toward privacy-first, local apps that work for the user, usually because 
 
 ## Shipped
 
-**DollarCost**
+**DollarCost**  
 A dollar-cost averaging and investment calculator for macOS. Available on the Mac App Store.
 
-**CodeNext.ai**
+**CodeNext.ai**  
 Client project. Designed and built the settings UI/UX for a commercial AI coding
 assistant, covering preferences, API key management, and configuration flows. Built with SwiftUI.
 
 ## Currently building
 
-**TradeConfidant**
+**TradeConfidant**  
 A local trade journal for options and stock traders.
 Built with React, TypeScript, Vite, Tauri, and SQLite. No cloud, no subscription.
 
-**gymStack**
+**gymStack**  
 A fitness and wellness tracker.
 Built with React, TypeScript, Vite, and Tauri.
 
